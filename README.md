@@ -40,9 +40,9 @@
 </head>
 <body>
   <div id="chatbox">
-    <h2>تحدث مع الذكاء الاصطناعي 🤖</h2>
+    <h2> Ai تحدث مع دليل المعلومات</h2>
     <div id="messages"></div>
-    <input type="text" id="userInput" placeholder="اكتب رسالتك هنا...">
+    <input type="text" id="userInput" placeholder="اكتب رسالتك هنا">
     <button onclick="sendMessage()">إرسال</button>
   </div>
 
